@@ -1,6 +1,6 @@
 # Sudoku3
 
-Este é um projeto de jogo de Sudoku desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. O projeto foi estruturado com foco em boas práticas de programação, separação de responsabilidades e uma cobertura abrangente de testes unitários, sendo ideal para estudo de desenvolvedores juniores.
+Este é um projeto de jogo de Sudoku desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. O projeto foi estruturado com foco em boas práticas de programação, separação de responsabilidades e uma cobertura abrangente de testes unitários, sendo ideal para estudo de desenvolvedores.
 
 ## 🚀 Tecnologias Utilizadas
 
